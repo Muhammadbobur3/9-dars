@@ -10,3 +10,8 @@
 .box:hover {
   color: aqua;
 }
+
+.btn {
+  background-color: cornflowerblue;
+  border: 0;
+}
